@@ -15,6 +15,6 @@ The source of truth is ../data/cities/INDEX.md and the 10 city files. build.py c
 
 Routes: #/, #/city/<slug>, #/compare, #/sample-alert, #/pricing, #/signup. Pricing and signup routes open sections of the home page.
 
-Signup records are stored under strt_signups in localStorage. No request reaches a server and no automatic emails or payments occur. The email fallback contains the form details and intentionally has no recipient because no contact address was supplied. Visitors must add David's address and send it. A public launch should supply a real support/signup address. The one business day confirmation promise starts when a person receives the request. Browser storage can be cleared through browser site settings.
+Signup records are stored under strt_signups in localStorage. No request reaches a server and no automatic emails or payments occur. The email fallback contains the form details and is addressed to david.strtracker@gmail.com, the dedicated inbox for this business (linked 2026-10-25, test send verified). The one business day confirmation promise starts when a person receives the request. Browser storage can be cleared through browser site settings.
 
 The renderer escapes source HTML, supports headings, paragraphs, bullet lists, tables, bold, markdown HTTP links, and plain HTTP source links. It permits no executable URL schemes. External source links are only visited when clicked; rendering makes only same-origin requests.
