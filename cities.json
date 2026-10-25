@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Sioux Falls, SD",
+    "slug": "sioux-falls-sd",
+    "file": "sioux-falls-sd.md",
+    "permit": "City Residential Rental Permit, $50 per address, plus state sales tax license and state health lodging license",
+    "cap": "No cap found on the city permit page reviewed, marked unverified as a formal cap",
+    "tax": "South Dakota DOR lists Tourism Tax 1.5% and Sioux Falls Lodging 1%, combined total unverified",
+    "flux": "Low, card fee notice for Jan 5, 2026",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Nashville, TN",
+    "slug": "nashville-tn",
+    "file": "nashville-tn.md",
+    "permit": "Metro STRP, Owner Occupied and Not Owner Occupied, expires in 365 days",
+    "cap": "New Not Owner Occupied permits barred in AR2A, R, RS, and RM residential zones, allowed only in listed commercial and mixed use districts",
+    "tax": "Permit holder must collect and remit room, occupancy, and sales taxes, current rate unverified from Metro pages retrieved",
+    "flux": "Yes, new online application process effective Mar 11, 2026",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Austin, TX",
+    "slug": "austin-tx",
+    "file": "austin-tx.md",
+    "permit": "STR operating license, $736.60 new and $369.60 renewal, two year term",
+    "cap": "Per site limits: up to 2 units on a single family site with 1,000 foot spacing, 10% on multi family sites, 25% on qualifying mixed use sites",
+    "tax": "City HOT 11% plus state HOT 6%, platforms collect and owners still file quarterly",
+    "flux": "Yes, Feb 2025 and Oct 2025 rules, platform rules Jul 1, 2026",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Scottsdale, AZ",
+    "slug": "scottsdale-az",
+    "file": "scottsdale-az.md",
+    "permit": "Scottsdale license per property under Ordinance 4566, $250, plus Arizona TPT license and Maricopa County registration",
+    "cap": "No cap found on city pages reviewed, rentals allowed by right subject to conditions, HOA rules can restrict",
+    "tax": "City TPT 1.75% and Transient Tax 5%, both collected by the State of Arizona, combined TPT total unverified",
+    "flux": "Low",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Palm Springs, CA",
+    "slug": "palm-springs-ca",
+    "file": "palm-springs-ca.md",
+    "permit": "Vacation Rental Registration Certificate under Chapter 5.25 plus TOT registration",
+    "cap": "20% neighborhood cap, junior certificates excluded from the cap calculation",
+    "tax": "TOT 11.5% plus TBID 1% on vacation rentals, filed monthly",
+    "flux": "Yes, Chapter 5.25 amendment history includes Ord. 2133 in 2026, co owned housing Ord. 2100 in 2024",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Denver, CO",
+    "slug": "denver-co",
+    "file": "denver-co.md",
+    "permit": "STR business license plus Lodger Tax license, annual renewal, primary residence only",
+    "cap": "No numeric cap found, access controlled by the one primary residence rule",
+    "tax": "Lodger Tax 10.75%",
+    "flux": "Low, no pending change found on city pages reviewed",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "New Orleans, LA",
+    "slug": "new-orleans-la",
+    "file": "new-orleans-la.md",
+    "permit": "NSTR and CSTR tracks, owner permit plus operator permit, lottery allocation",
+    "cap": "NSTR: one lot per city block in the CZO definition, city map language allows 1 license plus 2 special exceptions per square, CSTR: one unit or 25% per lot cap",
+    "tax": "Tax rates unverified from a primary source in this session, nightly occupancy fee listed in the council fee summary",
+    "flux": "Highest, interim commercial district expired Nov 5, 2025, quarterly lotteries through Jan 2027",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Savannah, GA",
+    "slug": "savannah-ga",
+    "file": "savannah-ga.md",
+    "permit": "STVR certificate, $400 new and $250 renewal, overlay district only plus limited business and agriculture zones",
+    "cap": "20% per ward cap for non owner occupied parcels in Downtown and Victorian districts, all listed wards marked capped, first come waitlist",
+    "tax": "Hotel Motel Excise Tax 8% in the ordinance text, city site also lists a 6% return form, confirm account rate with Revenue",
+    "flux": "Moderate, portal change in 2024 and tax rate change from 6% to 8%",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "Asheville, NC",
+    "slug": "asheville-nc",
+    "file": "asheville-nc.md",
+    "permit": "City Homestay Permit for part of a home, whole home STVR only in Resort Zoning District",
+    "cap": "No cap found, access controlled by zoning and by full time residence plus a one to two bedroom limit",
+    "tax": "Buncombe County occupancy tax rate unverified from a county primary source in this session",
+    "flux": "Low on the pages reviewed, fee and tax pass still open",
+    "lastVerified": "2026-10-25"
+  },
+  {
+    "name": "San Diego, CA",
+    "slug": "san-diego-ca",
+    "file": "san-diego-ca.md",
+    "permit": "STRO license in four tiers, fees from $33 plus $193 for Tier 1 to $41 plus $1,129 for Tier 3 and Tier 4, two year term",
+    "cap": "Tier 3 capped at 1% of housing units outside Mission Beach, Tier 4 capped at 30% of Mission Beach, Tier 4 closed with zero remaining as of Oct 23, 2026, Tier 3 had 807 remaining",
+    "tax": "TOT zone rates from May 1, 2025: 11.75%, 12.75%, and 13.75% by zone",
+    "flux": "Yes, fee change Mar 1, 2025 and TOT change May 1, 2025",
+    "lastVerified": "2026-10-25"
+  }
+]
